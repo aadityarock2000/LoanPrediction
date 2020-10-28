@@ -1,2 +1,2 @@
 # LoanPrediction
-Predict whether one would get a load with the set of required parameters
+Predict whether one would get a loan with the set of required parameters
